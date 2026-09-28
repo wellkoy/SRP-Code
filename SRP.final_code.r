@@ -14,13 +14,13 @@ library(rempsyc)
 # Data Paths
 # 0--0--0--0--0//
 
-data_path  <- "~/OneDrive - The University of Texas at Dallas/Damme, Katherine Steffen's files - R21MH136408_PLEs_Menarche/ABCD_6.0/Data"
+data_path  <- ""/path/to/ABCD_6.0/Data/"
 gen_path   <- file.path(data_path, "abcd_general")
 mh_path    <- file.path(data_path, "Mental_Health")
 img_path   <- file.path(data_path, "Imaging", "Structural_MRI")
-oc_path    <- "~/OneDrive - The University of Texas at Dallas/Damme, Katherine Steffen's files - R21MH136408_PLEs_Menarche/AdditionalABCDMeasures/ABCD Prenatal Complications/ABCD_6.0/Outputs"
-aces_path  <- "~/OneDrive - The University of Texas at Dallas/Damme, Katherine Steffen's files - R21MH136408_PLEs_Menarche/AdditionalABCDMeasures/ABCD Adverse Childhood Experiences/ABCD_5.0/Outputs"
-amyg_path  <- "~/OneDrive - The University of Texas at Dallas/Damme, Katherine Steffen's files - R21MH136408_PLEs_Menarche/AdditionalABCDMeasures/ABCD Amygdala Subvolumes"
+oc_path    <- "/path/to/ABCD_6.0/Data/"
+aces_path  <- "/path/to/ABCD_6.0/Data/"
+amyg_path  <- "/path/to/ABCD_6.0/Data/"
 
 # 0--0--0--0--0//
 # General Data
